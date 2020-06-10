@@ -1,5 +1,4 @@
+// vue.config.js
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-      ? '/Covid-19/'
-      : '/'
+publicPath: ‘/Covid-19/’
 }
