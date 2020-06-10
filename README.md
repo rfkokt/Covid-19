@@ -1,4 +1,4 @@
-# part1gajadi
+# Covid-19
 
 ## Project setup
 ```
