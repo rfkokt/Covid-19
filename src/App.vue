@@ -39,6 +39,15 @@
                         </a>
                     </v-avatar>
                     <v-avatar
+                            class="ma-3 mr-2"
+                            size="20"
+                            tile
+                    >
+                        <a href="https://github.com/rfkokt" target="_blank">
+                        <img src="./assets/github-sign.png"  alt="">
+                        </a>
+                    </v-avatar>
+                    <v-avatar
                             class="ma-3"
                             size="20"
                             tile
